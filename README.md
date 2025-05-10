@@ -24,29 +24,6 @@ An interactive web application that visualizes and explains the journey of data 
 - **Validation**: Zod
 - **Package Manager**: pnpm
 
-## 📋 Prerequisites
-
-- Node.js (Latest LTS version recommended)
-- pnpm package manager
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone [your-repository-url]
-   ```
-
-2. Install dependencies:
-   ```bash
-   pnpm install
-   ```
-
-3. Run the development server:
-   ```bash
-   pnpm dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 🏗️ Project Structure
 
@@ -79,16 +56,3 @@ An interactive web application that visualizes and explains the journey of data 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Internet Explorer Team
-
-## 🙏 Acknowledgments
-
-- Created for CodeQuest Day 2
-- Inspired by the need to make internet concepts more accessible 
